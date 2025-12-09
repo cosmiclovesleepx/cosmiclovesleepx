@@ -15,7 +15,7 @@ Sometimes I waste my time, but sometimes I like to give my all for the person I 
 ー C++ Enthusiast<br>
 ー Software and Network Engineering student.<br> 
 ー Security programming enthusiast, aspiring Security Architect. <br>
-ー Founder of the Net community called "The Lonely Man."<br>
+ー Founder of the Cybersecurity Group "Black Polar"<br>
 
 
 <div align="left">
