@@ -10,7 +10,7 @@
 
 <div style="max-width: 65%; min-width: 250px;">
 
-Sometimes I waste my time, but sometimes I like to give my all for the person I love
+Don't forget that I'm real.
 
 ー C++ Enthusiast<br>
 ー Software and Network Engineering student.<br> 
