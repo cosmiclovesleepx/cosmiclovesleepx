@@ -1,32 +1,27 @@
-
 <!-- TÍTULO PRINCIPAL -->
 <h1 align="center"> 𝙲𝙾𝚂𝙼𝙸𝙲 </h1>
 <p align="center"><em>Made in Wire</em></p>
 
+---
 
 ## About Me
 
-<div align="left" style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-
-<div style="max-width: 65%; min-width: 250px;">
+<div align="left">
 
 Don't forget that I'm real.
 
-ー C++ Enthusiast<br>
-ー Software and Network Engineering student.<br> 
-ー Security programming enthusiast, aspiring Security Architect. <br>
-ー Founder of the Cybersecurity Group "Black Polar"<br>
+- ー C++ Enthusiast  
+- ー Software and Network Engineering student.  
+- ー Security programming enthusiast, aspiring Security Architect.  
+- ー Founder of the Cybersecurity Group **"Black Polar"**
 
+<a href="mailto:intblanq@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="100"/>
+</a>
 
-<div align="left">
-  <a href="mailto:intblanq@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Icon" width="100" />
-  </a>  
 </div>
 
-
 <pre>
-          
        .                                                      .
         .n                   .                 .                  n.
   .   .dP                  dP                   9b                 9b.    .
@@ -48,47 +43,101 @@ dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb   
                               X. 9  `   '  P )X
                               `b  `       '  d'
                                `             '
+</pre>
 
-</pre>    
+---
+
+## 🛠 Stacks
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/>
+      <br><sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#"/>
+      <br><sub><b>C#</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+      <br><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="48" height="48" alt="Lua"/>
+      <br><sub><b>Lua / Luau</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash"/>
+      <br><sub><b>Bash</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="48" height="48" alt="PowerShell"/>
+      <br><sub><b>PowerShell</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+      <br><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
+      <br><sub><b>GitHub</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>
+      <br><sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+      <br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
+      <br><sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
+      <br><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
+      <br><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="48" height="48" alt="Wireshark"/>
+      <br><sub><b>Wireshark</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" height="48" alt="Windows"/>
+      <br><sub><b>Windows</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="48" height="48" alt="Vim"/>
+      <br><sub><b>Vim</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
-</div>
 
-## Stacks
-
-<p align="center">
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-  <!-- C++ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
-  <!-- C# -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/>
-  <!-- Luau -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua" width="60" height="60"/>
-  <!-- Bash -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="60" height="60"/>
-  <!-- PowerShell -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerShell" width="60" height="60"/>
- 
-</p>
-
+---
 
 ## Quote
 
+> **"Whoever says whatever."**  
+> — *Cosmic*
 
- **"Whoever says whatever."**  
-— *Cosmic*
+---
 
 ## Support Me
 
-
 <p align="left">
   <a href="https://www.paypal.me/cosmiclovesleepx" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Donate Button"/>
+    <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
   </a>
 </p>
 
