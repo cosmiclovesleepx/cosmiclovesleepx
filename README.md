@@ -1,6 +1,6 @@
 <!-- TÍTULO PRINCIPAL -->
 <h1 align="center"> 𝙲𝙾𝚂𝙼𝙸𝙲 </h1>
-<p align="center"><em>Made in Wire</em></p>
+<p align="center"><em>Made from half of someone.</em></p>
 
 
 
@@ -8,14 +8,14 @@
 
 <div align="left">
 
-Don't forget that I'm real.
+I'm not real
 
-- ー C++ Enthusiast  
-- ー Software and Network Engineering student.  
-- ー Security programming enthusiast, aspiring Security Architect.  
-- ー Founder of the Cybersecurity Group **"Black Polar"**
+  
+ー Software and Network Engineering student.  
+ー Security programming enthusiast, aspiring Security Architect.  
+ー Founder of the Developer Group **"Black Polar"**
 
-<a href="mailto:intblanq@gmail.com">
+<a href="mailto:sam@blackpolar.com">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="100"/>
 </a>
 
